@@ -1,0 +1,5 @@
+101,Ana Lopez,Desarrollo,32000.50
+102,Carlos Martin,Sistemas,28500.00
+103,Beatriz Gomez,Ciberseguridad,35400.75
+104,David Fernandez,Desarrollo,31000.00
+105,Elena Santos,Bases de Datos,33200.20

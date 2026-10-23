@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo>
+    <libro id="L01" categoria="Programacion">
+        <titulo>Acceso a Datos en Java</titulo>
+        <autor>Sergio Capdevila</autor>
+        <anio>2026</anio>
+        <precio moneda="EUR">39.95</precio>
+    </libro>
+    <libro id="L02" categoria="Bases de Datos">
+        <titulo>Diseno y Optimizacion de BBDD Relacionales</titulo>
+        <autor>Maria Alvarez</autor>
+        <anio>2025</anio>
+        <precio moneda="EUR">44.50</precio>
+    </libro>
+    <libro id="L03" categoria="Arquitectura">
+        <titulo>Patrones de Diseno DAO y Repositorios</titulo>
+        <autor>Javier Rodriguez</autor>
+        <anio>2026</anio>
+        <precio moneda="EUR">49.00</precio>
+    </libro>
+</catalogo>

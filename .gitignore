@@ -1,0 +1,33 @@
+# Target y compilación Maven
+target/
+*.class
+
+# Eclipse IDE
+.project
+.classpath
+.settings/
+.metadata/
+bin/
+*.launch
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# VS Code
+.vscode/
+
+# Logs y ficheros temporales del sistema
+*.log
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.tmp
+
+# Archivos de datos generados en tiempo de ejecución (si no son recursos de prueba)
+output/
+temp/
+test-output/
